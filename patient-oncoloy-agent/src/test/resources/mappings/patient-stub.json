@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/patients/{patientId}"
+  },
+  "response": {
+    "status": 200,
+    "body": "{\"patientId\":\"123\",\"name\":\"John Doe\",\"age\":45,\"gender\":\"Male\",\"address\":\"123 Main St\",\"email\":\"john.doe@example.com\",\"phone\":\"555-1234\",\"attendentName\":\"Jane Doe\",\"attendentPhone\":\"555-5678\",\"attendentRelationship\":\"Spouse\",\"patientDoctor\":\"Dr. Smith\",\"doctorId\":\"D001\",\"insuranceProvider\":\"HealthInsure\",\"insuranceType\":\"PPO\",\"preApprovalStatus\":\"Approved\"}",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
