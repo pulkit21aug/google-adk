@@ -5,3 +5,4 @@
 /patient-oncoloy-agent/.mvn/
 /patient-oncoloy-agent/target/
 patient-monitoring-agent/target/
+patient-bedallocation-agent/target/
