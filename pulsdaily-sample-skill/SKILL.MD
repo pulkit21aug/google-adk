@@ -1,9 +1,9 @@
-pulsdaily-sample-skill/
+**pulsdaily-sample-skill/
 ├── SKILL.md          # Required: metadata + instructions
 ├── scripts/          # Optional: executable code
 ├── references/       # Optional: documentation
 ├── assets/           # Optional: templates, resources
-└── ...               # Any additional files or directories
+└── ...               # Any additional files or d**irectories
 ---
 name: code-reviewer
 description:
